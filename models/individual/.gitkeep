@@ -1,0 +1,8 @@
+# This file ensures the directory is tracked by git while keeping it functionally empty
+# Models will be generated automatically during training
+
+# Example model files that would be created:
+# - random_forest_model.pkl
+# - xgboost_model.pkl  
+# - lstm_model.h5
+# - ensemble_weights.json

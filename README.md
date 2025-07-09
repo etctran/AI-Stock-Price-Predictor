@@ -75,12 +75,4 @@ prediction = predict_price('AAPL', days=5)
 
 ## Disclaimer
 
-This is for educational purposes only. Not financial advice!
-
-## Next steps
-
-- Add more sophisticated ML models
-- Implement portfolio tracking
-- Add more technical indicators
-- Create mobile app version
-- Integrate news sentiment analysis
+This is for educational purposes only. Not financial advice.
